@@ -1,0 +1,3 @@
+/home/resfe/Code/C++/makfiles_tut/two/out/build/CMakeFiles/anything.dir
+/home/resfe/Code/C++/makfiles_tut/two/out/build/CMakeFiles/edit_cache.dir
+/home/resfe/Code/C++/makfiles_tut/two/out/build/CMakeFiles/rebuild_cache.dir
